@@ -1,1 +1,2 @@
-# goit-typescript-hw-01
+TypeScrypt.
+Install and configure the development environment.
